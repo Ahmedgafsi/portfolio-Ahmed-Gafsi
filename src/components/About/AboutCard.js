@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+
 
 function AboutCard() {
   return (
@@ -9,32 +9,18 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ahmed Ameur Gafsi   </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> tunisia.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            a skilled web and mobile developer specializing in React.js, Next.js, and React Native
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            with a strong background in building robust applications using Node.js, TypeScript, and databases like MySQL.
+            <br />
+            I am passionate about delivering innovative
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Always eager to learn and adopt new technologies, I thrive in dynamic environments where I can contribute to impactful projects.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Ahmed Gafsi</footer>
         </blockquote>
       </Card.Body>
     </Card>
