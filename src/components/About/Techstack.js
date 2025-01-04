@@ -18,6 +18,7 @@ import {
   SiMysql,
   SiExpress,
   SiSocketdotio,
+  SiJsonwebtokens,
 } from "react-icons/si";
 
 
@@ -59,6 +60,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         < SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        < SiJsonwebtokens />
       </Col>
     </Row>
   );

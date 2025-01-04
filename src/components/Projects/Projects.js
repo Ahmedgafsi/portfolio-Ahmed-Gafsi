@@ -7,7 +7,7 @@ import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import bookify from "../../Assets/Projects/bookify.png";
 
 function Projects() {
   return (
@@ -34,12 +34,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={bookify}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Bookify"
+              description="To create a comprehensive booking platform that caters to travelers' needs by providing a seamless experience from searching for accommodations to booking and managing their stays."
+              ghLink="https://github.com/Ahmedgafsi/thesisProject"
+              demoLink="https://drive.google.com/file/d/13DugvBUcK5ts7SdjU2UBosMt-q7DM2oR/view?usp=drive_link"
             />
           </Col>
 
@@ -47,9 +47,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              title="E-shop"
+              description="Shop the latest electronics, including smartphones, laptops, and PCs, from top brands at competitive prices. Enjoy a seamless shopping experience with secure payments and fast delivery. Find everything you need, all in one place!"
+              ghLink="https://github.com/Ecommerce-Project-RBK/E-Shop"
               demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
