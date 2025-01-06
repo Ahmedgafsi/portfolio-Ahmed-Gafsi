@@ -48,7 +48,7 @@ function Projects() {
               title="E-shop"
               description="Shop the latest electronics, including smartphones, laptops, and PCs, from top brands at competitive prices. Enjoy a seamless shopping experience with secure payments and fast delivery. Find everything you need, all in one place!"
               ghLink="https://github.com/Ecommerce-Project-RBK/E-Shop"
-              demoLink="https://editor.soumya-jit.tech/"              
+              demoLink="https://drive.google.com/file/d/1AnfPCOkfmMCOXq1djGQLxJkVmbkUYVP3/view?usp=drive_link"              
             />
           </Col>
         </Row>
