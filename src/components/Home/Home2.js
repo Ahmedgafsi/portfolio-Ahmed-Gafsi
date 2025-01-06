@@ -89,7 +89,7 @@ function Home2() {
                 >
                   <AiOutlineMail />
                 </a>
-              </li>
+              </li> 
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/ahmed96___a.g/"
