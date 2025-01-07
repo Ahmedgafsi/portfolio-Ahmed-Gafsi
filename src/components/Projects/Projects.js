@@ -26,7 +26,7 @@ function Projects() {
               title="Ammer Darek"
               description="A user-friendly mobile application that enables users to buy and sell online, focusing on doors and windows made of wood and aluminum. The app features a modern interface that showcases products with detailed descriptions and prices, allowing users to easily connect with sellers to complete transactions seamlessly."
               ghLink="https://github.com/APPmobileAHMED/-"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://vimeo.com/1044767487?share=copy"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               title="Bookify"
               description="To create a comprehensive booking platform that caters to travelers' needs by providing a seamless experience from searching for accommodations to booking and managing their stays."
               ghLink="https://github.com/Ahmedgafsi/thesisProject"
-              demoLink="https://drive.google.com/file/d/13DugvBUcK5ts7SdjU2UBosMt-q7DM2oR/view?usp=drive_link"
+              demoLink="https://vimeo.com/1044783500?share=copy"
             />
           </Col>
 
